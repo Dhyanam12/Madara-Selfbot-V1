@@ -83,7 +83,7 @@ async def help(ctx):
         "• >ltc_balance [address]\n"
         "• >encode [message]\n"
         "• >decode [message]\n"
-        
+        "```"
     )
     await ctx.send(message)
 
